@@ -11,8 +11,8 @@ class MacMemoryCleaner < Formula
   version "1.0.0"
 
   def install
-    # Installs the binary to Homebrew's bin folder
-    bin.install "mac_memory_cleaner"
+    # Installs 'mac_cleaner' from the tarball but renames the command to 'mac_memory_cleaner'
+    bin.install "mac_cleaner" => "mac_memory_cleaner"
   end
 
   test do
