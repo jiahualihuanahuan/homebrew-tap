@@ -6,7 +6,7 @@ class MacMemoryCleaner < Formula
   url "https://github.com/jiahualihuanahuan/mac-memory-cleaner/releases/download/v1.0.0/mac_memory_cleaner.tar.gz"
   
   # The SHA-256 hash you generated in the previous steps
-  sha256 "041209f10860b6b3e19bd9f2ff0fd4f6e7113d918779e4264b046a6c8b15ace5"
+  sha256 "3417e2cbcbf800880eb103c05cecc768a18f1f8592c440ee377e35198487834b"
   
   version "1.0.0"
 
