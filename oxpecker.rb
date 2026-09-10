@@ -1,4 +1,4 @@
-class MacMemoryCleaner < Formula
+class Oxpecker < Formula
   desc "CLI tool to find and kill unused background processes on macOS"
   homepage "https://github.com/jiahualihuanahuan/oxpecker"
   
