@@ -3,7 +3,7 @@ class Oxpecker < Formula
   homepage "https://github.com/jiahualihuanahuan/oxpecker"
   url "https://github.com/jiahualihuanahuan/oxpecker/archive/refs/heads/main.tar.gz"
   version "0.1.0"
-  sha256 "567ba62e74271c4ad8f3fce8d5a915e1aa91a19a30a7e2841a74bda797e1710a"
+  sha256 "d35854425dee685f449276ce8bdd6321d7b660873a4c35ac8095e215d5af5d8d"
   license "MIT"
 
   depends_on "rust" => :build
