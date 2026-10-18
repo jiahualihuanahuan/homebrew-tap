@@ -1,9 +1,9 @@
 class Oxpecker < Formula
   desc "Find and optionally terminate high-memory, low-CPU background processes on macOS"
   homepage "https://github.com/jiahualihuanahuan/oxpecker"
-  url "https://github.com/jiahualihuanahuan/oxpecker/archive/refs/heads/main.tar.gz"
+  url "https://github.com/jiahualihuanahuan/oxpecker/archive/refs/tags/v0.1.0.tar.gz"
   version "0.1.0"
-  sha256 "e99dedb7917b9a5220790b248aaf43e4f5adf02ef318ee83a5f969d873dc2808"
+  sha256 "345a7ebb539938279520eafc785fdc9e86d485ed24bfc92280af451810e6bda9"
   license "MIT"
 
   depends_on "rust" => :build
